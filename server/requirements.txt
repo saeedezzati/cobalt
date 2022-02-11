@@ -145,7 +145,7 @@ termcolor==1.1.0
 texttable==1.4.0
 tornado==5.0.2
 traitlets==4.3.2
-Twisted==18.4.0
+Twisted==22.1.0
 txaio==2.10.0
 typing==3.6.4
 uritemplate==3.0.0
